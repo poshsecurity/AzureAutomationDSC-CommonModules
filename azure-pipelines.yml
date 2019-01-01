@@ -21,6 +21,7 @@ steps:
 - task: AzureResourceGroupDeployment@2
   displayName: 'Validate Template'
   inputs:
+    azureSubscription: '$(Subscription)'
     resourceGroupName: '$(ResourceGroup)'
     location: '$(Location)'
     csmFile: azuredeploy.json
