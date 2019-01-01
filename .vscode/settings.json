@@ -1,0 +1,21 @@
+{
+    //
+    // Custom Settings for Project
+    //
+    // These are here so that anyone potentially modifying the code base has the same editor experience, this ensures that the code will follow the same structure.
+
+    // Controls how the editor should render whitespace characters, possibilities are 'none', 'boundary', and 'all'. The 'boundary' option does not render single spaces between words.
+    "editor.renderWhitespace": "all", // Default: none
+
+    // Controls whether the editor should render control characters
+    "editor.renderControlCharacters": true, // Default: false
+
+    // Number of spaces for tabs
+    "editor.tabSize": 2, // Default: 4
+
+    // Use spaces not tabs
+    "editor.insertSpaces": true,  // Default: true
+
+    // When enabled, will trim trailing whitespace when you save a file.
+    "files.trimTrailingWhitespace": true,  // Default: false
+}
