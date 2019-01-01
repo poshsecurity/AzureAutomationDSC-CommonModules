@@ -2,7 +2,6 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9c94e0695ce845e1b9f658deec1dd06d)](https://app.codacy.com/app/PoshSecurity/AzureAutomationDSC-CommonModules?utm_source=github.com&utm_medium=referral&utm_content=poshsecurity/AzureAutomationDSC-CommonModules&utm_campaign=Badge_Grade_Settings)
 [![Deploy to Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fposhsecurity%2FAzureAutomationDSC-CommonModules%2Fmaster%2Fazuredeploy.json)
-
 [![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.png)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fposhsecurity%2FAzureAutomationDSC-CommonModules%2Fmaster%2Fazuredeploy.json)
 
 This template deploys common PowerShell DSC modules to an existing Azure Automation account.
@@ -14,7 +13,6 @@ Authored by Kieran Jacobsen.
 ## Solution overview and deployed resources
 
 This solution accelerates the use and development of Azure Automation DSC. The solution will deploy approximately 30 commonly used PowerShell DSC modules to Azure Automation.
-
 
 ## Modules Deployed
 
