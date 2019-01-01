@@ -20,7 +20,7 @@ This solution accelerates the use and development of Azure Automation DSC. The s
 This table lists the modules that will be deployed, along with the author and description (from the PowerShell Gallery). As ARM templates are fixed to a specific version, the version being deployed is listed.
 
 | Module Name | Author | Description | Version |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | ActiveDirectoryCSDsc | Microsoft Corporation | This DSC Resource module can be used to install or uninstall Certificate Services components in Windows Server. | 3.0.0.0 |
 | AuditPolicyDsc | Microsoft Corporation | The AuditPolicyDsc module allows you to configure and manage the advanced audit policy on all currently supported versions of Windows. | 1.3.0.0 |
 | cChoco | Chocolatey Software Lawrence Gripper Javy de Koning | Chocolatey DSC Resources for use with internal packages and the community package repository. Learn more at http://chocolatey.org/ | 2.4.0.0 |
