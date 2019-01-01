@@ -49,10 +49,6 @@
         "url": "https://psg-prod-eastus.azureedge.net/packages/gpregistrypolicyparser.0.2.0.nupkg"
       },
       {
-        "name": "HybridRunbookWorkerDsc",
-        "url": "https://psg-prod-eastus.azureedge.net/packages/hybridrunbookworkerdsc.1.0.0.2.nupkg"
-      },
-      {
         "name": "NetworkingDsc",
         "url": "https://psg-prod-eastus.azureedge.net/packages/networkingdsc.6.2.0.nupkg"
       },

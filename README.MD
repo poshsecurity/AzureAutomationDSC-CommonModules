@@ -1,6 +1,8 @@
 # Azure Automation DSC - Common PowerShell DSC Modules
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9c94e0695ce845e1b9f658deec1dd06d)](https://app.codacy.com/app/PoshSecurity/AzureAutomationDSC-CommonModules?utm_source=github.com&utm_medium=referral&utm_content=poshsecurity/AzureAutomationDSC-CommonModules&utm_campaign=Badge_Grade_Settings)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 [![Deploy to Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fposhsecurity%2FAzureAutomationDSC-CommonModules%2Fmaster%2Fazuredeploy.json)
 [![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.png)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fposhsecurity%2FAzureAutomationDSC-CommonModules%2Fmaster%2Fazuredeploy.json)
 
@@ -29,7 +31,6 @@ This table lists the modules that will be deployed, along with the author and de
 | DFSDsc | Microsoft Corporation | DSC resources for configuring Distributed File System Replication and Namespaces. | 4.2.0.0 |
 | GPRegistryPolicy | Microsoft Corporation | Module with cmdlets to work with GP Registry Policy .pol files | 0.3 |
 | GPRegistryPolicyParser | Microsoft Corporation | Module with parser cmdlets to work with GP Registry Policy .pol files | 0.2 |
-| HybridRunbookWorkerDsc | Ben Gelens | This DSC Resource Module contains DSC resources to deal with Automation Hybrid Runbook Workers. | 1.0.0.2 |
 | NetworkingDsc | Microsoft Corporation | Module with DSC Resources for Networking area | 6.2.0.0 |
 | PackageManagementProviderResource | Microsoft Corporation | Module with DSC resources for the package management. | 1.0.3 |
 | PSDscResources | Microsoft Corporation | This module contains the standard DSC resources. Because PSDscResources overwrites in-box resources, it is only available for WMF 5.1. Many of the resource updates provided here are also included in the xPSDesiredStateConfiguration module which is still compatible with WMF 4 and WMF 5 (though that module is not supported and may be removed in the future). | 2.9.0.0 |

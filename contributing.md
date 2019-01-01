@@ -79,6 +79,8 @@ Here are some tips on ensuring you create an excellent suggestion:
 
 Looking to make your first contribution? Congratulations, you are taking the first steps into an amazing journey.
 
+You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
+
 Don't know where to start? You can start by looking through the issues for the **Beginner** and **Help Wanted** tags:
 
 * **Beginner** are simple and should only take a few lines of code and tests to complete.
