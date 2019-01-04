@@ -24,8 +24,6 @@ The reality is that code will contain bugs, even with thorough testing, issues c
 
 ### Before you file a bug report
 
-* **Ensure you are running the latest version of the module.** If you are running an older version of the module, try updating the module and testing if the issue remains. If you installed the module from the [PowerShell Gallery](https://powershellgallery.com), use this command to update the module: ``` PS> Update-Module -Name Posh-SYSLOG ```.
-* **Ensure that you are using the CMDLet correctly.** Have you checked the help? Sometimes we assume we know how a specific function or CMDLet works, and it turns out we are wrong. The command ```Get-Help``` is your friend!
 * **Has the issue been reported before?** You might not be the only person who has reported the issue. Check out the [Issues][Issues] and look through any current Issues that may match the issue you are experiencing.
 
 ### Submitting a (good) bug report
@@ -37,7 +35,7 @@ Here are some tips on ensuring you create an excellent bug report:
 * **Bugs should be actionable**, that is, something that can be fixed as part of this project. Issues with Windows, .Net or PowerShell might not be solvable within this project.
 * **Use a clear descriptive title** for the issue that describes the issue.
 * **Describe the exact steps to reproduce the issue** and include as many details as possible. People often leave things out as they think they might not be important, but every little detail counts! When listing what steps or commands you executed, **don't just say what you did, try to explain how you did it**. Be as detailed as possible, it is safe to say that more is usually better.
-* **Provide specific examples**, include specific steps you have taken, link to files or other copy/pastable snippets. If you are providing snippets of code, ensure you use Markdown Code Blocks. <>TODO: link<> If you can, provide the exact steps/code you were executing when the issue happened.
+* **Provide specific examples**, include specific steps you have taken, link to files or other copy/pastable snippets. If you are providing snippets of code, ensure you use Markdown Code Blocks. If you can, provide the exact steps/code you were executing when the issue happened.
 * **PowerShell Transcripts can be extremely useful** so please include those where possible. You can start a transcript with ```Start-Transcript``` and end it with ```Stop-Transcript```.
 * **Screenshots and Gifs** can also be extemely useful, however transcripts are preferred.
 * **If there is private/confidential information**, feel free to remove that from any logs/transcripts/images, but remember to highlight where you have done so.
@@ -54,8 +52,6 @@ Got a killer idea for a new feature? Maybe you want to suggest a minor improveme
 
 ### Before you submit an enhancement suggestion
 
-* **Ensure you are running the latest version of the module.** The feature you require might be included in a new version of the module. If you installed the module from the Gallery, use this command to update the module: ``` PS> Update-Module -Name Posh-SYSLOG ```.
-* **Ensure that you are using the CMDLet correctly.** Have you checked the help? Perhaps the feature has already been implemented but you just haven't discovered it yet! The command ```Get-Help``` is your friend!
 * **Has the feature been requested before?** You might not be the only person who has requested this new feature. If it has, add a comment to the existing issue instead of opening a new one. Be sure to checkout closed issues as well, the feature may have been previously implemented or rejected.
 
 ### Submitting a (good) enhancement suggestion

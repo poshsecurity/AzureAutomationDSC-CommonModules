@@ -11,7 +11,7 @@ A clear and concise description of what the problem is. Ex. I'm always frustrate
 A clear and concise description of what you want to happen.
 
 **Examples of how the solution would work**
-Some simple PowerShell examples of how the solution would work.
+Some simple examples of how the solution would work.
 
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
