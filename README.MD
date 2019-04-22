@@ -1,6 +1,6 @@
 # Azure Automation DSC - Common PowerShell DSC Modules
 
-[![Build Status](https://dev.azure.com/poshsecurity/Azure%20Automation/_apis/build/status/poshsecurity.AzureAutomationDSC-CommonModules?api-version=5.0-preview.1)](https://dev.azure.com/poshsecurity/Azure%20Automation/_apis/build/status/poshsecurity.AzureAutomationDSC-CommonModules?api-version=5.0-preview.1)
+[![Build Status](https://dev.azure.com/poshsecurity/Azure%20Automation/_apis/build/status/poshsecurity.AzureAutomationDSC-CommonModules%20(1)?branchName=master)](https://dev.azure.com/poshsecurity/Azure%20Automation/_build/latest?definitionId=37&branchName=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9c94e0695ce845e1b9f658deec1dd06d)](https://app.codacy.com/app/PoshSecurity/AzureAutomationDSC-CommonModules?utm_source=github.com&utm_medium=referral&utm_content=poshsecurity/AzureAutomationDSC-CommonModules&utm_campaign=Badge_Grade_Settings)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
